@@ -87,7 +87,7 @@ delay(150);
 }
 
 delay(3000);
-cancela.write(0); // Fecha cancela
+cancela.write(0); // Fecha cancelaa
 
 } else {
 
